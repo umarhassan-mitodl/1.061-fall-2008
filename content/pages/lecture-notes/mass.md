@@ -11,7 +11,7 @@ title: 2. Conservation of Mass
 uid: a52b38ce-352b-df17-e048-3a87ecb3db29
 ---
 
-Please note that animations A and B use an older Indeo video compression not supported by most multimedia players. If you have problems playing these files, we recommend using the {{% resource_link "48372e73-7a58-4655-918c-beb4c0ff9c8c" "VLC multimedia player" %}}.
+Please note that animations A and B use an older Indeo video compression not supported by most multimedia players. If you have problems playing these files, we recommend using the [VLC multimedia player](http://www.videolan.org/vlc/).
 
 The animations were generated with MATLAB software.
 
