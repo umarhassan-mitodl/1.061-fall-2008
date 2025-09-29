@@ -4,6 +4,8 @@ description: Problem set on transport processes in the environment.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/3084690adbcea4fac75991b43dc12b45_f02homework7.pdf
 file_size: 131639
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Solutions to example problems on conservation of mass.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/e8e3dee446a73efe9684ab90b82fbf60_solutions2.pdf
 file_size: 362163
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

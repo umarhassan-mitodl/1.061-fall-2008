@@ -7,6 +7,8 @@ description: Lecture notes on velocity profiles and turbulence, the basics of tu
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/90ac30b4e640520df961ad8d2c2d04e9_lec_07.pdf
 file_size: 220147
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Example problems on velocity profiles and turbulence.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/6362c1df287afe695f26418767579031_problems7.pdf
 file_size: 315708
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

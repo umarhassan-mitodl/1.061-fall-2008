@@ -6,6 +6,8 @@ description: Lecture notes on advection and diffusion of an instantaneous releas
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/c96f9a75576238ac2c4e0e73b84e8072_lec_05.pdf
 file_size: 397580
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

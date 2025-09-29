@@ -4,6 +4,8 @@ description: Example problems on advection and diffusion of an instantaneous rel
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/9aff6319e371d69b6b87c16a22ea3791_problems5.pdf
 file_size: 230907
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

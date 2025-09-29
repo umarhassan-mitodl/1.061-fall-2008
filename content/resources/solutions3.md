@@ -5,6 +5,8 @@ description: Solutions to example problems on diffusion of an instantaneous poin
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/c3371d76c94fc1beb6ff94131ce90fd9_solutions3.pdf
 file_size: 355145
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

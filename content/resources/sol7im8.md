@@ -4,6 +4,8 @@ description: Image accompanying a problem set on transport processes in the envi
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/37f0e2c3925cbaef94e399318f7d2676_Sol7Im8.gif
 file_size: 1789
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

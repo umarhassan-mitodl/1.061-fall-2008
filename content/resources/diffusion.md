@@ -5,6 +5,8 @@ description: Lecture notes on diffusion of an instantaneous point release, insta
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/fa6d07c2884cc8b4d0085cdf3a0d7dba_diffusion.pdf
 file_size: 184361
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

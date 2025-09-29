@@ -4,6 +4,8 @@ description: Example problems on reaction and interfacial exchange.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/a4d910c9fab9922a1768e611c4bdd50d_problems9.pdf
 file_size: 335100
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

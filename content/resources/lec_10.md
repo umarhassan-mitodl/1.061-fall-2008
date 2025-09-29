@@ -5,6 +5,8 @@ description: Lecture notes on transport of particles, particle diffusion, instan
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/d6b135914ef6d79b1c4db0dc131fc2a5_lec_10.pdf
 file_size: 175580
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

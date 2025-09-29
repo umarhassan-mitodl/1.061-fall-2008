@@ -5,6 +5,8 @@ description: Image accompanying an animation showing the motion of 500 particles
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/e93ef36113d82b5f45331eaae6fe7443_movie.jpg
 file_size: 18965
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

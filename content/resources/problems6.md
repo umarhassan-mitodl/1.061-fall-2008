@@ -4,6 +4,8 @@ description: Example problems on diffusion from continuous point sources.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/f2ee77aad4a3c1b0bcf918faa4c98234_problems6.pdf
 file_size: 257503
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

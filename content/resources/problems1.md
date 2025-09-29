@@ -4,6 +4,8 @@ description: Example problems on the conceptual model of diffusion.
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/53729779d36dc9ea4928cd7435d1c6ae_problems1.pdf
 file_size: 185595
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/9adb12cdd6735b981f540f516e4cad31_walk2.avi
 file_size: 38962
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

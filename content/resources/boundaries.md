@@ -7,6 +7,8 @@ description: Lecture notes on boundary conditions, the no-flux boundary conditio
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/f8e98ef15f50d2082c56a31265a79d7f_boundaries.pdf
 file_size: 363065
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

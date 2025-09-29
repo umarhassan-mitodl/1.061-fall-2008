@@ -4,6 +4,8 @@ description: Solutions to example problems on diffusion from continuous point so
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/6a52132689fc6cce821bd0194ed4de85_solutions6.pdf
 file_size: 543347
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

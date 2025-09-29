@@ -4,6 +4,8 @@ description: Animation accompanying a problem set on transport processes in the 
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/44673ad4b0675c9507d9fb099ef33794_MassAnim3.AVI
 file_size: 1628672
 file_type: video/x-msvideo
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

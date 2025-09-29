@@ -5,6 +5,8 @@ description: Lecture notes on dispersion processes, shear dispersion, and other 
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/d5a72d6dea5a6c7bb24520939052812b_lec_08.pdf
 file_size: 258047
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

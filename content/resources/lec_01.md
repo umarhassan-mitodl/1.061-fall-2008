@@ -5,6 +5,8 @@ description: Lecture notes on the conceptual model of diffusion, diffusion from 
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/8260e3e1577cd739ce85143510d9c165_lec_01.pdf
 file_size: 130907
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

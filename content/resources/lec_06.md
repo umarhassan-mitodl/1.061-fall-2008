@@ -6,6 +6,8 @@ description: Lecture notes on continuous point sources, continuous release, dilu
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/746746eecca47dd3096f68220b44b272_lec_06.pdf
 file_size: 273501
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

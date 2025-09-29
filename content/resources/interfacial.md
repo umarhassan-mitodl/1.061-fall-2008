@@ -6,6 +6,8 @@ description: Lecture notes on reaction and interfacial exchange, reaction-advect
 file: /courses/1-061-transport-processes-in-the-environment-fall-2008/5533466a0381ec8788ffff66248ce091_interfacial.pdf
 file_size: 355420
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
